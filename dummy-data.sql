@@ -319,3 +319,4 @@ mysql> select AVG(cost) AS average_event_cost from event_details;
 
 
 
+
